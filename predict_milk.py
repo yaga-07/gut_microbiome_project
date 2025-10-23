@@ -37,7 +37,7 @@ So the plan is:
 3. visualise.
 
 
-One of the big problems we will have to tackle is class in balance...
+One of the big problems we will have to tackle is class imbalance...
 I solved this here by turning this into a binary classification problem,
 so its mothers milk vs other. I then also had to downsample mothers milk.
 """
