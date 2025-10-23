@@ -15,6 +15,7 @@ This repo explores linking DIABIMMUNE cohort metadata to MicrobeAtlas samples, e
 - `predict_hla.py` – similar pipeline for HLA risk (classes 2 vs 3) with downsampling and per-bin confusion matrices. Output plot:
   - `fla_cm.png`
 - `data/` – raw tables (samples, HLA, milk, run tables, DIABIMMUNE covariates, pretrained embeddings).
+- Public data package: [Figshare dataset](https://figshare.com/account/articles/30429055?file=58993825) (includes the `data/` directory contents referenced above).
 
 ### Setup
 
