@@ -18,5 +18,5 @@ model:
 # evaluation
 evaluation:
   metrics: ["accuracy", "precision", "recall", "f1", "roc_auc"] # other metrics
-  cv_folds: 5 # [2, 5, ...]
+  cv_folds: [2, 3, 5, 10] # number of folds for cv
   # ... other evaluation params
